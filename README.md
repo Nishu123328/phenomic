@@ -64,7 +64,7 @@ Thank you to all our backers!
 
 <a href="https://opencollective.com/phenomic#backers" target="_blank"><img src="https://opencollective.com/phenomic/backers.svg?width=890"></a>
 
-### Sponsors
+### Sponsors:
 
 Thank you to all our sponsors! (please ask your company to also support this
 open source project by
